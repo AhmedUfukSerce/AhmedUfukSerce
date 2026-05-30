@@ -11,10 +11,6 @@ I build full-stack products and agentic AI systems. CS (AI/ML) at Cal Poly San L
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-I ship production software end to end, from data model to deployed UI, and I use Claude Code as a daily tool. Most of my work right now is AI infrastructure: pipelines where several agents reason in stages and the output is a real product, not a demo.
-
-Currently building Second Order. Open to software engineering and AI engineering internships.
-
 ## What I build
 
 ### Second Order
