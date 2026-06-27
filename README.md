@@ -1,4 +1,8 @@
-# Ahmed Ufuk Serce
+<div align="center">
+
+<img src="assets/header.svg" alt="Ahmed Ufuk Serce. I build full-stack products and agentic AI systems." width="760">
+
+</div>
 
 I build full-stack products and agentic AI systems. CS (AI/ML) at Cal Poly San Luis Obispo.
 
@@ -14,23 +18,38 @@ I build full-stack products and agentic AI systems. CS (AI/ML) at Cal Poly San L
 ## What I build
 
 ### Second Order
-An AI startup evaluation platform. Founders submit a pitch deck and get a rigorous 0 to 100 score with written feedback within 24 hours. The core is a 6-stage agentic pipeline (market sizing, team assessment, business-model stress-testing, risk identification, red-teaming, score synthesis), each stage cross-checking the last, with human review gating every high score. It runs as a dual-sided marketplace: founder submissions on one side, sector-matched investor subscriptions on the other.
-Sole builder. Next.js, TypeScript, Python, LangGraph, Claude API, Postgres on Supabase, Stripe, Vercel. Source is private.
+An AI startup evaluation platform. Founders submit a pitch deck and get a rigorous 0 to 100 score with written feedback within 24 hours. The evaluation is designed as a six-stage adversarial pipeline (market sizing, team assessment, business-model stress-testing, risk identification, red-teaming, score synthesis), each stage arguing against the last, with human review gating every score above 80. It runs as a dual-sided marketplace: founder submissions on one side, sector-matched investor subscriptions on the other.
+Sole builder. Next.js, TypeScript, LangGraph, Claude API, Postgres on Supabase, Stripe, Vercel. Pre-launch, source is private. [Architecture case study](https://github.com/AhmedUfukSerce/second-order-case-study).
 
 ### Second Chance
-A mobile reentry companion for people coming home from incarceration. A directed acyclic graph engine resolves each person's prerequisites into a sequenced, adaptive week-by-week life plan across housing, ID, banking, and employment. An AI companion runs daily check-ins, detects crisis language, and surfaces 988 and local resources.
-Led a 4-person team and built the entire React Native and Expo frontend in a 24-hour hackathon.
-Repo: [github.com/AhmedUfukSerce/second-chance](https://github.com/AhmedUfukSerce/second-chance)
+A mobile reentry companion for people coming home from incarceration. A real directed-acyclic-graph engine (Kahn's topological sort) resolves each person's prerequisites into a sequenced, adaptive week-by-week life plan across housing, ID, banking, and employment. An AI companion runs daily check-ins and, before any model is called, scans for crisis language and surfaces 988 and local resources.
+Led a 4-person team and built the entire React Native and Expo frontend in a 24-hour hackathon. [Repo](https://github.com/AhmedUfukSerce/second-chance).
 
 ### GitBud
-A full-stack SaaS that generates automated GitHub contribution activity. It authenticates through GitHub OAuth, uses the Claude API to generate repositories and commits that mimic a user's own code patterns and commit cadence, and runs a 24/7 scheduler with randomized, weekday-weighted timing to keep a contribution graph active. Tiered Stripe billing, webhook-driven generation triggers, and a live dashboard with a contribution-graph preview and full activity log.
+A full-stack SaaS that generates automated GitHub contribution activity. It authenticates through GitHub OAuth, uses the Claude API to generate repositories and commits that mimic a user's own code patterns and commit cadence, and runs a 24/7 scheduler with randomized, weekday-weighted timing. Tiered Stripe billing, webhook-driven generation, and a live dashboard with a contribution-graph preview and full activity log.
 Sole builder. React, Node.js, Claude API, Stripe. Source is private.
+
+## Open-source tools
+
+Two small macOS menu-bar apps I built in the open, in Swift with zero dependencies. Both have live animated demos in their READMEs.
+
+**[typer-plus](https://github.com/AhmedUfukSerce/typer-plus)** types your clipboard as real, human-paced keystrokes, never a paste. Research-tuned timing, the odd typo it goes back and fixes.
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/AhmedUfukSerce/typer-plus/main/docs/typer-hero.svg" alt="Typer+ typing a line and correcting a typo" width="680">
+</div>
+
+**[cursor-plus](https://github.com/AhmedUfukSerce/cursor-plus)** keeps your Mac active by moving the cursor in natural, human-like paths, and gets out of the way the moment you take over.
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/AhmedUfukSerce/cursor-plus/main/docs/cursor-hero.svg" alt="Cursor+ tracing a human path and clicking a zone" width="680">
+</div>
 
 ## Experience
 
-- **Aura Design & Build** | Built a Python and Selenium scraping pipeline that extracts 20+ structured fields across multiple agency sites, removing 6+ hours of daily manual work.
-- **EKASTAR** | Shipped 15+ client websites end to end, from wireframe to deployment.
-- **Freelance** | React and Next.js web development for clients.
+- **Aura Design and Build:** built a Python and Selenium scraping pipeline that extracts 20+ structured fields across multiple agency sites, removing 6+ hours of daily manual work.
+- **EKASTAR:** shipped 15+ client websites end to end, from wireframe to deployment.
+- **Freelance:** React and Next.js web development for clients.
 
 ## Stack
 
