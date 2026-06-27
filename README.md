@@ -1,8 +1,7 @@
-<div align="center">
-
-<img src="assets/header.svg" alt="Ahmed Ufuk Serce. I build full-stack products and agentic AI systems." width="760">
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img alt="Ahmed Ufuk Serce. I build full-stack products and agentic AI systems." src="assets/header-light.svg" width="620">
+</picture>
 
 I build full-stack products and agentic AI systems. CS (AI/ML) at Cal Poly San Luis Obispo.
 
