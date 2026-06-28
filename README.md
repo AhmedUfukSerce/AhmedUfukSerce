@@ -35,13 +35,19 @@ Two small macOS menu-bar apps I built in the open, in Swift with zero dependenci
 **[typer-plus](https://github.com/AhmedUfukSerce/typer-plus)** types your clipboard as real, human-paced keystrokes, never a paste. Research-tuned timing, the odd typo it goes back and fixes.
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/AhmedUfukSerce/typer-plus/main/docs/typer-hero.svg" alt="Typer+ typing a line and correcting a typo" width="680">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedUfukSerce/typer-plus/main/docs/typer-hero-dark.svg">
+  <img alt="Typer+ typing a line and correcting a typo" src="https://raw.githubusercontent.com/AhmedUfukSerce/typer-plus/main/docs/typer-hero-light.svg" width="680">
+</picture>
 </div>
 
 **[cursor-plus](https://github.com/AhmedUfukSerce/cursor-plus)** keeps your Mac active by moving the cursor in natural, human-like paths, and gets out of the way the moment you take over.
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/AhmedUfukSerce/cursor-plus/main/docs/cursor-hero.svg" alt="Cursor+ tracing a human path and clicking a zone" width="680">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedUfukSerce/cursor-plus/main/docs/cursor-hero-dark.svg">
+  <img alt="Cursor+ tracing a human path and clicking a zone" src="https://raw.githubusercontent.com/AhmedUfukSerce/cursor-plus/main/docs/cursor-hero-light.svg" width="680">
+</picture>
 </div>
 
 ## Experience
