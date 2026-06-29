@@ -3,8 +3,6 @@
   <img alt="Ahmed Ufuk Serce. I build full-stack products and agentic AI systems." src="assets/header-light.svg" width="620">
 </picture>
 
-I build full-stack products and agentic AI systems. CS (AI/ML) at Cal Poly San Luis Obispo.
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
